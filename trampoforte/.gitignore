@@ -1,0 +1,5 @@
+*.pdf
+*.log
+.DS_Store
+.vscode/
+.idea/
