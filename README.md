@@ -8,7 +8,8 @@
 - Prioridade absoluta de créditos trabalhistas (salários, PLR, etc.)
 - Participação acionária proporcional de trabalhadores diretos, colaboradores e terceirizados
 
-**Proponente:** Jose Soares Sobrinho
+**Proponente:** Jose Soares Sobrinho & GOS3
 
+**Referencia:** https://github.com/scoobiii/selix
 ---
 **Documentos prontos** na pasta `documentos/`
